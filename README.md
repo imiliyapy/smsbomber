@@ -29,4 +29,4 @@ cd smsbomber
 ```
 
 ```
-python3 sms
+python3 sms.py
