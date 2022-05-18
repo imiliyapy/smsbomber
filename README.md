@@ -21,7 +21,7 @@ pip install requests
 ```
 
 ```
-git clone https://github.com/imiliyazx/Smsbomber.git
+git clone https://github.com/imiliyapy/smsbomber.git
 ```
 
 ```
