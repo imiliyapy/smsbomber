@@ -1,5 +1,5 @@
 # Smsbomber
-A script with API from Iranian sites :)
+A script with API from Iranian sites (New Version v2.0)
 
 # installation
 
